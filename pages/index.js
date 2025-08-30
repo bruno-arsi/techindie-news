@@ -10,7 +10,7 @@ function Home() {
             {isOpen ? (
                 <div>
                     <h1>Você foi programaticado!</h1> <br />
-                    <h2>Pra se tornar um desenvolvedor melhor, dá uma risadinha</h2>
+                    <h2>Pra se tornar um desenvolvedor melhor, dá uma risadinha 😜</h2>
                     <img width={640} height={640} src={openBox} alt="Presente aberto" />
                 </div>
             ) : (
